@@ -6,7 +6,7 @@
 
 const nutthakit = {
 
-  interests: [Cat, Dog, Movies, VideoGame, Travel],
+  interests: [Cat, Dog, Movies, Anime, VideoGame, Travel],
   
   mainStack: [React, Nodejs, Nextjs],
   
