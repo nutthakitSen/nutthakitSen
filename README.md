@@ -1,16 +1,6 @@
 # 👋  Hi  🎉  I’m Nutthakit
 
-*Full-stack developer : at Charoen Pokphand Foods (CPF)*
 
-```
-
-const nutthakit = {
-
-  interests: [Cat, Dog, Movies, Anime, VideoGame, Travel],
-  
-  mainStack: [React, Nodejs, Nextjs],
-  
-}
 
 
 ```
